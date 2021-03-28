@@ -1,41 +1,49 @@
 {
   "project_info": {
-    "project_number": "748007732162",
-    "firebase_url": "https://actingweb-firstapp.firebaseio.com",
-    "project_id": "actingweb-firstapp",
-    "storage_bucket": "actingweb-firstapp.appspot.com"
+    "project_number": "9565888621",
+    "firebase_url": "https://digispeaker-76c1c.firebaseio.com",
+    "project_id": "digispeaker-76c1c",
+    "storage_bucket": "digispeaker-76c1c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:748007732162:android:4684d6853ad93a3e",
+        "mobilesdk_app_id": "1:9565888621:android:547795f190c9554dd71f64",
         "android_client_info": {
-          "package_name": "io.actingweb.firstapp"
+          "package_name": "com.digispeaker.flutta"
         }
       },
       "oauth_client": [
         {
-          "client_id": "748007732162-qltuqb4v2eqfgvafp290mqtpntk9joea.apps.googleusercontent.com",
+          "client_id": "9565888621-sup1m4eem5q507mmtkgkto2eacv2ukna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digispeaker.flutta",
+            "certificate_hash": "36655ecc4c9a4bb319af72d4d31a3f7d1d841acb"
+          }
+        },
+        {
+          "client_id": "9565888621-27g20tusjg32q521c220q132vtt3rfel.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD7fSvAPIz-31x_pMPJ3hR3xMcP8WjJxJ0"
+          "current_key": "AIzaSyB9kiGEQ0evZ29fv8DGad8biRfXBd2MRQI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "748007732162-qltuqb4v2eqfgvafp290mqtpntk9joea.apps.googleusercontent.com",
+              "client_id": "9565888621-27g20tusjg32q521c220q132vtt3rfel.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "748007732162-20hnc1u6qmn35avunaidj44p43o6g4s7.apps.googleusercontent.com",
+              "client_id": "9565888621-laemtioqeohv53hpgs5bfupcojri907r.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "io.actingweb.firstapp"
+                "bundle_id": "com.digispeaker.flutta"
               }
             }
           ]

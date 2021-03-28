@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>748007732162-20hnc1u6qmn35avunaidj44p43o6g4s7.apps.googleusercontent.com</string>
+	<string>9565888621-laemtioqeohv53hpgs5bfupcojri907r.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.748007732162-20hnc1u6qmn35avunaidj44p43o6g4s7</string>
+	<string>com.googleusercontent.apps.9565888621-laemtioqeohv53hpgs5bfupcojri907r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>9565888621-sup1m4eem5q507mmtkgkto2eacv2ukna.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCFGeVdzEh6ZPKClV_0in0xHHX-0NtqGQ8</string>
+	<string>AIzaSyDYEFURdcOESaloQBOCVwKpXtPxFltklVU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>748007732162</string>
+	<string>9565888621</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>io.actingweb.firstapp</string>
+	<string>com.digispeaker.flutta</string>
 	<key>PROJECT_ID</key>
-	<string>actingweb-firstapp</string>
+	<string>digispeaker-76c1c</string>
 	<key>STORAGE_BUCKET</key>
-	<string>actingweb-firstapp.appspot.com</string>
+	<string>digispeaker-76c1c.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:748007732162:ios:b662cf09a8209a8b785c5b</string>
+	<string>1:9565888621:ios:669345fc39727aa9d71f64</string>
 	<key>DATABASE_URL</key>
-	<string>https://actingweb-firstapp.firebaseio.com</string>
+	<string>https://digispeaker-76c1c.firebaseio.com</string>
 </dict>
 </plist>
